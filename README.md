@@ -17,3 +17,7 @@ The input file is a biological sequence file in fasta format.
 ### Download
 
 https://github.com/ChenHuilong1223/SAtoolkit/releases
+
+### My publications
+Chen H.L., Wang X.Y., and Ge W.N., 2021, Comparative genomics of three-domain multi-copper oxidase gene family in foxtail millet (Setaria italica L.),
+Computational Molecular Biology, 11(4): 1-13 (doi: 10.5376/cmb.2021.11.0004)
