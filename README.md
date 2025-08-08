@@ -17,3 +17,5 @@ The input file is a biological sequence file in fasta format.
 ### Download
 
 https://github.com/ChenHuilong1223/SAtoolkit/releases
+
+New address: http://silagedb.com/BioApp/
